@@ -26,16 +26,10 @@ bist, nutze die App bitte nicht.
 
 ## 2. Beschreibung des Angebots
 
-Die App ist eine Übungs- und Lernhilfe für den Flugfunk mit einem kostenlosen
-und einem kostenpflichtigen Teil:
-
-- **Kostenlos**: Quiz (Training und Übungsprüfung), Buchstabieralphabet und
-  Ziffern, Vokabeln, Funknavigation und Sprechfunk-Simulation.
-- **Zeitpass** (Abonnement über Google Play Billing): Lernstatistik.
-
-Den aktuellen Preis des Zeitpasses und, wenn angeboten, die Dauer einer
-kostenlosen Probephase siehst du vor dem Kauf in der App und im Eintrag bei
-Google Play.
+Die App ist eine kostenlose Übungs- und Lernhilfe für den Flugfunk: Quiz
+(Training und Übungsprüfung), Buchstabieralphabet und Ziffern, Vokabeln,
+Funknavigation, Sprechfunk-Simulation und Lernstatistik. Sie enthält keine
+Käufe und keine Abonnements.
 
 ## 3. Wichtiger Hinweis: nur Lernhilfe
 
@@ -51,40 +45,14 @@ Der Fragenkatalog stammt von der Bundesnetzagentur; die Zuordnung zu
 Prüfungsgebieten, Vokabeln, Beispielabläufe und Erklärungen sind eigene
 Zusammenstellungen ohne Gewähr.
 
-## 4. Käufe über Google Play Billing
+## 4. Keine Käufe
 
-Alle Käufe werden über Google Play Billing abgewickelt. Zahlungsabwicklung und
-Abo-Verwaltung unterliegen den jeweils geltenden
-[Google-Play-Bedingungen und der Erstattungsrichtlinie](https://support.google.com/googleplay/answer/2479637).
-Deine gesetzlichen Rechte gegen uns, einschließlich eines etwaigen gesetzlichen
-Widerrufsrechts (siehe Abschnitt 6), bleiben unberührt.
+Die Nutzung der App ist unentgeltlich. Wir können das ändern, etwa durch ein
+späteres kostenpflichtiges Angebot; dafür gelten dann gesonderte Bedingungen,
+die dir vor einem Kauf angezeigt werden. Bereits installierte Fassungen werden
+dadurch nicht nachträglich kostenpflichtig.
 
-## 5. Probephase, Verlängerung und Kündigung
-
-Wird eine kostenlose Probephase angeboten, siehst du ihre Dauer vor dem
-Abschluss (derzeit 7 Tage). Ob du dafür berechtigt bist, entscheidet Google
-Play. Kündigst du nicht vor Ende der Probephase, verlängert sich der Zeitpass
-automatisch zum angezeigten Preis um dieselbe Laufzeit (derzeit einen Monat),
-bis du kündigst. Du kannst jederzeit in Google Play kündigen (Play Store →
-Zahlungen und Abos → Abos); die Kündigung wirkt zum Ende des laufenden
-Zeitraums. Die Kündigung führt nicht zur nachträglichen Erstattung des
-laufenden Zeitraums, soweit kein Anspruch auf Erstattung oder Widerruf besteht.
-
-## 6. Widerrufsrecht
-
-Wenn du Verbraucher bist und das geltende Recht dir ein Widerrufsrecht einräumt,
-kannst du einen entsprechenden Kauf grundsätzlich innerhalb von 14 Tagen
-widerrufen. Ob, in welchem Umfang und bis wann dieses Recht besteht, hängt vom
-digitalen Produkt und vom geltenden Recht ab. Sind die gesetzlichen
-Voraussetzungen für ein vorzeitiges Erlöschen erfüllt, einschließlich einer
-etwa erforderlichen ausdrücklichen Zustimmung und Kenntnisnahme durch dich, kann
-das Widerrufsrecht vor Ablauf der 14 Tage erlöschen. Für Erstattungsanfragen
-gelten die Bedingungen und Verfahren von Google (siehe Abschnitt 4). Zwingende
-gesetzliche Verbraucherrechte gegen uns bleiben unberührt. Um ein gesetzliches
-Widerrufsrecht uns gegenüber auszuüben, schreibe uns an die oben genannte
-E-Mail-Adresse.
-
-## 7. Lokale Daten und Datenerhalt
+## 5. Lokale Daten und Datenerhalt
 
 Die App speichert deinen Lernstand lokal auf deinem Gerät und lädt ihn nicht auf
 Server des Entwicklers hoch; siehe die [Datenschutzerklärung](datenschutz.md).
@@ -93,7 +61,7 @@ nie verloren gehen, etwa wenn du die App deinstallierst, das Gerät wechselst
 oder die App-Daten löschst. Zwingende gesetzliche Rechte bei einem mangelhaften
 digitalen Produkt bleiben unberührt.
 
-## 8. Haftungsbeschränkung
+## 6. Haftungsbeschränkung
 
 Bei Vorsatz und grober Fahrlässigkeit haften wir unbeschränkt. Die Haftung für
 leichte Fahrlässigkeit ist ausgeschlossen. Das gilt nicht für:
@@ -113,53 +81,28 @@ Deine gesetzlichen Rechte bei einem mangelhaften digitalen Produkt nach den
 Vertragsbeendigung, Preisminderung und Schadensersatz unter den dort genannten
 Voraussetzungen, bleiben unberührt.
 
-## 9. Änderungen und Aktualisierungen
+## 7. Änderungen und Aktualisierungen
 
-### 9.1 Änderung dieser Bedingungen
+### 7.1 Änderung dieser Bedingungen
 
 Wir können diese Bedingungen anpassen, soweit das zumutbar erforderlich ist,
 etwa wegen Änderungen an der App, technischer Entwicklungen oder rechtlicher
-Vorgaben. Änderungen gelten für die künftige Nutzung und künftige Käufe. Wo das
-geltende Recht für eine Änderung, die ein bestehendes Vertragsverhältnis
-betrifft (z. B. ein laufendes Abonnement), deine Zustimmung verlangt, wenden wir
-sie nur mit deiner Zustimmung oder sonst nach den gesetzlichen Möglichkeiten an.
-Die aktuelle Fassung ist immer über den Link im Store-Eintrag erreichbar.
+Vorgaben. Änderungen gelten für die künftige Nutzung. Die aktuelle Fassung ist
+immer über den Link im Store-Eintrag erreichbar.
 
-### 9.2 Änderungen an der App (§ 327r BGB)
+### 7.2 Änderungen und Aktualisierungen der App
 
-Der Zeitpass wird als digitales Produkt über einen Zeitraum bereitgestellt.
-Änderungen, die nötig sind, um die Vertragsmäßigkeit zu erhalten, erfolgen ohne
-gesonderte Grundlage. Jede darüber hinausgehende Änderung erfolgt nur unter den
-Voraussetzungen des § 327r BGB: Es muss ein triftiger Grund vorliegen
-(insbesondere Anpassung an ein geändertes technisches Umfeld wie neue
-Android-Versionen oder Anforderungen von Google Play, Beseitigung von
-Sicherheitsproblemen, Rechtsänderung oder Anordnung einer Behörde oder eines
-Gerichts, wesentliche Erweiterung des Funktionsumfangs), dir dürfen keine
-zusätzlichen Kosten entstehen, und wir informieren dich klar und verständlich.
-Beeinträchtigt eine solche Änderung deinen Zugang oder die Nutzbarkeit mehr als
-nur geringfügig, informieren wir dich innerhalb einer angemessenen Frist vorher
-auf einem dauerhaften Datenträger, auch darüber, dass du den Vertrag innerhalb
-von 30 Tagen kostenfrei beenden kannst. Der kostenlose Teil der App wird nicht
-gegen Entgelt bereitgestellt; dieser Abschnitt gilt dafür nur, soweit die
-gesetzlichen Voraussetzungen vorliegen.
+Die App wird unentgeltlich bereitgestellt. Wir stellen sie über Google Play
+bereit und können sie weiterentwickeln, ändern oder einstellen. Soweit das
+Gesetz für die unentgeltliche Bereitstellung digitaler Produkte Pflichten zur
+Aktualisierung oder Änderung vorsieht (§§ 327f, 327r BGB), gelten diese
+unberührt. Neue Fassungen erhältst du über Google Play.
 
-### 9.3 Aktualisierungen (§ 327f BGB)
-
-Während des maßgeblichen Zeitraums (beim Zeitpass die Laufzeit deines Abos)
-stellen wir die Aktualisierungen bereit, die nötig sind, damit die App
-vertragsgemäß bleibt, einschließlich Sicherheitsaktualisierungen. Die
-Bereitstellung erfolgt über Google Play, das dich auch über verfügbare Updates
-informiert. Die Verpflichtung betrifft die Vertragsmäßigkeit; sie ist kein
-Versprechen neuer Funktionen. Installierst du eine bereitgestellte
-Aktualisierung nicht innerhalb angemessener Frist, nachdem wir dich über sie und
-die Folgen der Nichtinstallation informiert haben, haften wir nicht für einen
-Mangel, der allein auf der fehlenden Aktualisierung beruht.
-
-## 10. Anwendbares Recht
+## 8. Anwendbares Recht
 
 Es gilt deutsches Recht unter Ausschluss des UN-Kaufrechts (CISG). Zwingende
 Verbraucherschutzvorschriften des Staates, in dem du lebst, bleiben unberührt.
 
-## 11. Kontakt
+## 9. Kontakt
 
 Bei Fragen zu diesen Bedingungen: FsNaviVfr@gmail.com

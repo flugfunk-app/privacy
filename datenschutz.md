@@ -31,10 +31,9 @@ beantworteten Fragen) wird ausschließlich im privaten Speicher der App auf
 deinem Gerät abgelegt. Er wird weder an den Entwickler noch an Dritte
 übertragen.
 
-Beteiligter Dritter ist allein Google Play: Das optionale Abonnement „Zeitpass“
-(Lernstatistik) wird über Google Play Billing gekauft und verwaltet (siehe
-Abschnitt 3.2). Es gibt keine Werbung und keine Analyse- oder
-Tracking-Dienste, die App enthält kein datensammelndes SDK.
+Die App ist kostenlos und enthält keine Käufe. Sie baut keine
+Netzwerkverbindung auf und bindet keinen Dritten ein. Es gibt keine Werbung und
+keine Analyse- oder Tracking-Dienste, die App enthält kein datensammelndes SDK.
 
 Die automatische Sicherung von Android (Auto Backup) ist für die App
 abgeschaltet. Dein Lernstand wird von der App daher nicht in eine Sicherung
@@ -55,38 +54,24 @@ Diese Daten verlassen dein Gerät durch die App nicht. Du kannst sie löschen,
 indem du in den Android-Einstellungen die App-Daten löschst oder die App
 deinstallierst.
 
-### 3.2 Google Play Billing
+### 3.2 Keine Käufe
 
-Das optionale Abonnement „Zeitpass“ wird über Google Play Billing gekauft.
-Zahlungsdaten (Kartennummer, Rechnungsadresse usw.) verarbeitet ausschließlich
-Google als eigenständig Verantwortlicher; wir sehen oder erhalten sie nie. Auch
-eine mit dem Abonnement angebotene kostenlose Probephase wird von Google
-abgewickelt; ob du dafür berechtigt bist, entscheidet Google.
-
-Um festzustellen, ob die Statistik freigeschaltet ist, fragt die App beim Öffnen
-des Statistik-Bildschirms deinen Kaufstatus bei Google Play ab. Das letzte
-Ergebnis (aktiv oder nicht) merkt sich die App lokal, damit die Statistik auch
-ohne Verbindung nutzbar bleibt. Der Entwickler erhält von der App keine
-Kaufdaten. Siehe die
-[Datenschutzerklärung von Google](https://policies.google.com/privacy).
+Die App ist kostenlos und enthält weder In-App-Käufe noch Abonnements. Die
+Lernstatistik gehört zur kostenlosen App. Zahlungsdaten oder Kaufstatus werden
+deshalb nicht verarbeitet.
 
 ## 4. Berechtigungen und Netzwerkzugriff
 
-Die App fragt dich nach keiner Berechtigung. In ihrem Manifest stehen die
-Berechtigungen, die die Bibliothek Google Play Billing hinzufügt: die
-Abrechnungsberechtigung (`com.android.vending.BILLING`),
-`android.permission.INTERNET` und `android.permission.ACCESS_NETWORK_STATE`.
-Das sind Standardberechtigungen, die bei der Installation erteilt werden und die
-Google Play Billing braucht, um Google Play zu erreichen. Die App selbst baut
-keine weitere Netzwerkverbindung auf und greift nicht auf Kontakte, Standort,
-Kamera, Mikrofon, Fotos oder Dateien zu.
+Die App fragt dich nach keiner Berechtigung und deklariert in ihrem Manifest
+keine. Insbesondere hat sie keine Internetberechtigung und baut keine
+Netzwerkverbindung auf. Sie greift nicht auf Kontakte, Standort, Kamera,
+Mikrofon, Fotos oder Dateien zu.
 
 ## 5. Dienste Dritter
 
-Google Play Billing (siehe 3.2). Sonst nichts. Es werden keine Werbe-, Tracking-
-oder Analyse-SDKs verwendet (z. B. kein Google Analytics, kein Firebase
-Analytics). Die App enthält keine Web-Ansicht und keine Einbindung sozialer
-Netzwerke.
+Keine. Es werden keine Werbe-, Tracking- oder Analyse-SDKs verwendet (z. B. kein
+Google Analytics, kein Firebase Analytics). Die App enthält keine Web-Ansicht
+und keine Einbindung sozialer Netzwerke.
 
 ## 6. Speicherung und Weitergabe
 
@@ -114,9 +99,7 @@ Die lokale Verarbeitung der Daten aus Abschnitt 3.1, um dir die genutzten
 Lernfunktionen bereitzustellen, beruht auf Art. 6 Abs. 1 lit. b DSGVO
 (Vertragserfüllung) oder, soweit das nicht greift, auf Art. 6 Abs. 1 lit. f
 DSGVO (unser berechtigtes Interesse, die von dir gewählten Funktionen
-bereitzustellen). Die Verarbeitung durch Google im Rahmen von Google Play
-Billing beruht auf Googles eigenen Rechtsgrundlagen als eigenständig
-Verantwortlichem.
+bereitzustellen).
 
 ## 9. Änderungen dieser Erklärung
 

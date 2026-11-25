@@ -24,6 +24,10 @@ Anfragen werden über die angegebene E-Mail-Adresse beantwortet. Eine
 schnelle elektronische Kontaktaufnahme und unmittelbare Kommunikation
 im Sinne des § 5 Abs. 1 Nr. 2 DDG ist darüber möglich.
 
+## Umsatzsteuer-Identifikationsnummer
+
+Umsatzsteuer-Identifikationsnummer nach § 27a UStG: DE341051916
+
 ## Verantwortlich für den Inhalt
 
 Robert Peringer, Anschrift wie oben.
@@ -51,6 +55,11 @@ Germany
 **Contact**
 
 Email: FsNaviVfr@gmail.com
+
+**VAT identification number**
+
+VAT identification number pursuant to Section 27a of the German VAT Act
+(UStG): DE341051916
 
 **Responsible for the content**
 

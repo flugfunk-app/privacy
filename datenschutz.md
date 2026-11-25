@@ -67,12 +67,14 @@ keine. Insbesondere hat sie keine Internetberechtigung und baut keine
 Netzwerkverbindung auf. Sie greift nicht auf Kontakte, Standort, Kamera,
 Mikrofon, Fotos oder Dateien zu.
 
-Unter „Info“ gibt es die Schaltflächen „Zur Webseite“ und „Quelle:
-Bundesnetzagentur“. Erst wenn du eine davon antippst, öffnet Android die
-Webseite alles-privatflug.de bzw. die Seite der Bundesnetzagentur
-(bundesnetzagentur.de) in deinem Browser. Die App übergibt dabei keine Daten,
-auch keinen Lernstand. Ab dem Öffnen gilt die Datenschutzerklärung der
-jeweiligen Webseite.
+Unter „Info“ gibt es die Schaltflächen „Zur Webseite“, „Quelle:
+Bundesnetzagentur“, „Impressum“ und „Datenschutzerklärung“. Erst wenn du eine
+davon antippst, öffnet Android die Webseite alles-privatflug.de, die Seite der
+Bundesnetzagentur (bundesnetzagentur.de) bzw. die Rechtstexte der App
+(flugfunk-app.github.io, gehostet bei GitHub) in deinem Browser. Die App
+übergibt dabei keine Daten, auch keinen Lernstand. Ab dem Öffnen gilt die
+Datenschutzerklärung der jeweiligen Webseite; beim Aufruf der Rechtstexte kann
+GitHub technisch bedingt deine IP-Adresse verarbeiten.
 
 Diese App ist inoffiziell: Sie ist nicht mit einer Behörde verbunden und
 vertritt keine Behörde, auch nicht die Bundesnetzagentur. Der Fragenkatalog

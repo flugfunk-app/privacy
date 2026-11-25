@@ -6,7 +6,7 @@ title: Terms of Use – Alles Privatflug – Flugfunk
 
 [Privacy Policy](index.md) · [Impressum / Legal Notice](impressum.md) · [Deutsch](nutzungsbedingungen.md)
 
-Last updated: November 20, 2026
+Last updated: November 25, 2026
 
 These Terms of Use apply to the Android app **Alles Privatflug – Flugfunk**
 (package ID: `rp.allesprivatflug.flugfunk`), provided by:
@@ -40,7 +40,10 @@ The app is not to be used for flight planning, navigation or radio
 communication in flight operations. We do not promise that using the app will
 lead to passing an examination.
 
-The question catalogue originates from the Bundesnetzagentur; the assignment to
+Unofficial app: it is not affiliated with any public authority and does not
+represent one, including the Bundesnetzagentur. The question catalogue
+originates from the publication of the Bundesnetzagentur
+(<https://www.bundesnetzagentur.de/Flugfunkzeugnisse>); the assignment to
 exam areas, vocabulary, example procedures and explanations are our own
 compilations without warranty.
 

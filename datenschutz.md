@@ -6,7 +6,7 @@ title: Datenschutzerklärung – Alles Privatflug – Flugfunk
 
 [Privacy Policy](index.md) · [Nutzungsbedingungen](nutzungsbedingungen.md) · [Impressum](impressum.md)
 
-Stand: 22. November 2026
+Stand: 25. November 2026
 
 Diese Datenschutzerklärung gilt für die Android-App **Alles Privatflug – Flugfunk**
 (Paketname: `rp.allesprivatflug.flugfunk`).
@@ -67,10 +67,17 @@ keine. Insbesondere hat sie keine Internetberechtigung und baut keine
 Netzwerkverbindung auf. Sie greift nicht auf Kontakte, Standort, Kamera,
 Mikrofon, Fotos oder Dateien zu.
 
-Unter „Info“ gibt es die Schaltfläche „Zur Webseite“. Erst wenn du sie
-antippst, öffnet Android die Webseite alles-privatflug.de in deinem Browser.
-Die App übergibt dabei keine Daten, auch keinen Lernstand. Ab dem Öffnen gilt
-die Datenschutzerklärung der Webseite.
+Unter „Info“ gibt es die Schaltflächen „Zur Webseite“ und „Quelle:
+Bundesnetzagentur“. Erst wenn du eine davon antippst, öffnet Android die
+Webseite alles-privatflug.de bzw. die Seite der Bundesnetzagentur
+(bundesnetzagentur.de) in deinem Browser. Die App übergibt dabei keine Daten,
+auch keinen Lernstand. Ab dem Öffnen gilt die Datenschutzerklärung der
+jeweiligen Webseite.
+
+Diese App ist inoffiziell: Sie ist nicht mit einer Behörde verbunden und
+vertritt keine Behörde, auch nicht die Bundesnetzagentur. Der Fragenkatalog
+stammt aus der Veröffentlichung der Bundesnetzagentur
+(<https://www.bundesnetzagentur.de/Flugfunkzeugnisse>).
 
 ## 5. Dienste Dritter
 

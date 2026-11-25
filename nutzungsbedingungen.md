@@ -6,7 +6,7 @@ title: Nutzungsbedingungen – Alles Privatflug – Flugfunk
 
 [Terms of Use](terms.md) · [Datenschutzerklärung](datenschutz.md) · [Impressum](impressum.md)
 
-Stand: 20. November 2026
+Stand: 25. November 2026
 
 Diese Nutzungsbedingungen gelten für die Android-App **Alles Privatflug – Flugfunk**
 (Paketname: `rp.allesprivatflug.flugfunk`), angeboten von:
@@ -41,7 +41,10 @@ deiner Ausbilder. Die App ist nicht für Flugplanung, Navigation oder Funkverkeh
 im Flugbetrieb zu verwenden. Wir sagen nicht zu, dass die Nutzung der App zum
 Bestehen einer Prüfung führt.
 
-Der Fragenkatalog stammt von der Bundesnetzagentur; die Zuordnung zu
+Inoffizielle App: Sie ist nicht mit einer Behörde verbunden und vertritt keine
+Behörde, auch nicht die Bundesnetzagentur. Der Fragenkatalog stammt aus der
+Veröffentlichung der Bundesnetzagentur
+(<https://www.bundesnetzagentur.de/Flugfunkzeugnisse>); die Zuordnung zu
 Prüfungsgebieten, Vokabeln, Beispielabläufe und Erklärungen sind eigene
 Zusammenstellungen ohne Gewähr.
 

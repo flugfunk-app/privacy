@@ -6,7 +6,7 @@ title: Privacy Policy – Alles Privatflug – Flugfunk
 
 [Terms of Use](terms.md) · [Impressum / Legal Notice](impressum.md) · [Deutsch](datenschutz.md)
 
-Last updated: November 22, 2026
+Last updated: November 25, 2026
 
 This privacy policy applies to the Android app **Alles Privatflug – Flugfunk**
 (package ID: `rp.allesprivatflug.flugfunk`).
@@ -63,10 +63,16 @@ The app does not ask you for any permission and declares none in its manifest.
 In particular it has no internet permission and opens no network connection. It
 does not access your contacts, location, camera, microphone, photos or files.
 
-Under "Info" there is a "Go to website" button. Only when you tap it does
-Android open the website alles-privatflug.de in your browser. The app passes no
-data along, including your learning progress. From then on the privacy policy of
-the website applies.
+Under "Info" there are the buttons "Go to website" and "Source:
+Bundesnetzagentur". Only when you tap one of them does Android open the website
+alles-privatflug.de or the page of the Bundesnetzagentur (bundesnetzagentur.de)
+in your browser. The app passes no data along, including your learning
+progress. From then on the privacy policy of the respective website applies.
+
+This app is unofficial: it is not affiliated with any public authority and does
+not represent one, including the Bundesnetzagentur. The question catalogue
+originates from the publication of the Bundesnetzagentur
+(<https://www.bundesnetzagentur.de/Flugfunkzeugnisse>).
 
 ## 5. Third-Party Services
 
